@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </br>
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e473u1p6iffix6zk8jrk7xfodzhv4msrn4tyyy1s4ru&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e473u1p6iffix6zk8jrk7xfodzhv4msrn4tyyy1s4ru&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ignacio-miguez/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,9 +13,9 @@
       <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
-  </br>
-  <h1>Welcome to my Readme.md</h1>
 </div>
+
+---
 
 </br>
 
@@ -74,4 +74,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div align="center">
+  <h2>:fire: My Stats:</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imiguez&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imiguez&layout=compact&theme=radical&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
